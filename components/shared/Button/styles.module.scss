@@ -1,0 +1,35 @@
+.button {
+  background-color: #e1e5f2;
+  margin: 0 7px;
+  color: #242526;
+  font-size: 16px;
+  height: 35px;
+  min-width: 100px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  padding: 0 5px;
+  font-weight: 300;
+  transition: 300ms all;
+  border: 0;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 500;
+  &:hover {
+    color: #fff;
+    background-color: #639;
+  }
+
+  &.success {
+    background-color: #fff;
+    color: rgb(0, 140, 221);
+    border: 1px solid rgb(0, 140, 221);
+
+    &:hover {
+      color: #fff;
+      background: rgb(0, 140, 221);
+    }
+  }
+}

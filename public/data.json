@@ -1,0 +1,148 @@
+{
+  "employees": [
+    {
+      "id": "NDM4MTk5NDA3Ng==",
+      "fullName": "Sıla Hamzaoğlu",
+      "address": "579 Körmükçü Forges",
+      "phone": "+90-639-811-3-430",
+      "email": "Akdemir66@hotmail.com",
+      "avatar": "https://cdn.fakercloud.com/avatars/ahmetalpbalkan_128.jpg",
+      "jobTitle": "Forward Web Engineer"
+    },
+    {
+      "id": "MjUxODE1NDk3MQ==",
+      "fullName": "Fatoş Aclan",
+      "address": "1030 Tazegül Oval",
+      "phone": "+90-338-605-6-222",
+      "email": "Barmaklak_Karabulut11@hotmail.com",
+      "avatar": "https://cdn.fakercloud.com/avatars/linkibol_128.jpg",
+      "jobTitle": "Investor Interactions Manager"
+    },
+    {
+      "id": "OTExMzE1NDI1MA==",
+      "fullName": "Yekta Özbey DVM",
+      "address": "44495 Kurutluoğlu Valleys",
+      "phone": "+90-155-590-58-18",
+      "email": "Altnkan_Ayaydn0@yahoo.com",
+      "avatar": "https://cdn.fakercloud.com/avatars/gofrasdesign_128.jpg",
+      "jobTitle": "Dynamic Optimization Director"
+    },
+    {
+      "id": "NTcxMjQ0MDEwNw==",
+      "fullName": "Bayan Nabi Yazıcı",
+      "address": "10222 Elmastaşoğlu Fort",
+      "phone": "+90-540-472-1-193",
+      "email": "Adalan.Akgl62@gmail.com",
+      "avatar": "https://cdn.fakercloud.com/avatars/_victa_128.jpg",
+      "jobTitle": "Customer Data Developer"
+    },
+    {
+      "id": "Mzc2Mjg1Nzg0",
+      "fullName": "Itır Yılmazer",
+      "address": "70716 Bayunçur Light",
+      "phone": "+90-375-456-7-390",
+      "email": "Ala_Akbulut6@yahoo.com",
+      "avatar": "https://cdn.fakercloud.com/avatars/jagan123_128.jpg",
+      "jobTitle": "District Response Developer"
+    },
+    {
+      "id": "NjcyOTYwOTg0Nw==",
+      "fullName": "Kısmet Özdoğan",
+      "address": "6385 Alpata Turnpike",
+      "phone": "+90-674-531-37-49",
+      "email": "Ayyldz25@hotmail.com",
+      "avatar": "https://cdn.fakercloud.com/avatars/mattbilotti_128.jpg",
+      "jobTitle": "Direct Accountability Director"
+    },
+    {
+      "id": "NjkwNjI0Nzc5Nw==",
+      "fullName": "Şakir Ekşioğlu",
+      "address": "12365 Abşar Loaf",
+      "phone": "+90-096-626-0-303",
+      "email": "Glemen.Bakrcolu@hotmail.com",
+      "avatar": "https://cdn.fakercloud.com/avatars/isaacfifth_128.jpg",
+      "jobTitle": "Product Interactions Producer"
+    },
+    {
+      "id": "MTYzNjMxMTA4MQ==",
+      "fullName": "Müesser Dağlaroğlu",
+      "address": "93496 Türkyılmaz Trail",
+      "phone": "+90-251-122-85-41",
+      "email": "Akkun_Advar@hotmail.com",
+      "avatar": "https://cdn.fakercloud.com/avatars/mugukamil_128.jpg",
+      "jobTitle": "Future Quality Officer"
+    },
+    {
+      "id": "MTAzNjI5MDUxNA==",
+      "fullName": "Gülgün Nebioğlu",
+      "address": "079 Binbeği Flat",
+      "phone": "+90-822-761-17-68",
+      "email": "Belir_Erbulak@gmail.com",
+      "avatar": "https://cdn.fakercloud.com/avatars/martinansty_128.jpg",
+      "jobTitle": "Chief Metrics Developer"
+    },
+    {
+      "id": "ODUxODYzMjQxNw==",
+      "fullName": "Bektaş Ekici",
+      "address": "9643 Asrı Views",
+      "phone": "+90-079-085-3-491",
+      "email": "Akpra_Tokatlolu15@hotmail.com",
+      "avatar": "https://cdn.fakercloud.com/avatars/kaelifa_128.jpg",
+      "jobTitle": "Chief Communications Technician"
+    },
+    {
+      "id": "ODkyMzQ0MjI0",
+      "fullName": "Dr. Mevlüt Yetkiner",
+      "address": "0306 Öztonga Cove",
+      "phone": "+90-426-794-90-82",
+      "email": "Bilgebara86@hotmail.com",
+      "avatar": "https://cdn.fakercloud.com/avatars/j04ntoh_128.jpg",
+      "jobTitle": "Corporate Mobility Liaison"
+    },
+    {
+      "id": "NTIwNjE5MTUyMQ==",
+      "fullName": "Kuddusi Aydan",
+      "address": "4226 Bunsuz Valleys",
+      "phone": "+90-446-997-8-732",
+      "email": "Ayruk.Denkel@hotmail.com",
+      "avatar": "https://cdn.fakercloud.com/avatars/8d3k_128.jpg",
+      "jobTitle": "Dynamic Factors Analyst"
+    },
+    {
+      "id": "OTIzNjE5OTk2Mg==",
+      "fullName": "Füsun Kahveci",
+      "address": "4254 Velioğlu Drive",
+      "phone": "+90-052-335-8-511",
+      "email": "Beur_Akk@yahoo.com",
+      "avatar": "https://cdn.fakercloud.com/avatars/turkutuuli_128.jpg",
+      "jobTitle": "Chief Accountability Developer"
+    },
+    {
+      "id": "OTU5ODE1MzQzMQ==",
+      "fullName": "Alican Babaoğlu",
+      "address": "54178 Adalmış Ford",
+      "phone": "+90-145-986-11-90",
+      "email": "Baykuzu.Hamzaolu96@yahoo.com",
+      "avatar": "https://cdn.fakercloud.com/avatars/psaikali_128.jpg",
+      "jobTitle": "Customer Optimization Strategist"
+    },
+    {
+      "id": "MzI1NDIxNTA2NQ==",
+      "fullName": "Çağıl Arslanoğlu",
+      "address": "518 Butuk Island",
+      "phone": "+90-685-248-91-74",
+      "email": "Barskan_Barbarosolu3@gmail.com",
+      "avatar": "https://cdn.fakercloud.com/avatars/akmalfikri_128.jpg",
+      "jobTitle": "Customer Intranet Strategist"
+    },
+    {
+      "id": "NzcyODM0NjY5Nw==",
+      "fullName": "Feriha Yalçın DDS",
+      "address": "149 Bakırcıoğlu Burgs",
+      "phone": "+90-683-680-41-06",
+      "email": "Bilgetaam73@yahoo.com",
+      "avatar": "https://cdn.fakercloud.com/avatars/andresenfredrik_128.jpg",
+      "jobTitle": "Investor Tactics Strategist"
+    }
+  ]
+}

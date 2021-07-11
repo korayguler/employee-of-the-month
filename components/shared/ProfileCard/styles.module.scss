@@ -1,0 +1,46 @@
+.profile-card {
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  background-color: #f8f9fa;
+  align-items: center;
+  position: relative;
+  box-shadow: 5px 5px 10px rgb(0 0 0 / 4%);
+  border-radius: 15px;
+  height: 280px;
+
+  &:first-child {
+    border: 5px solid rgb(11, 135, 218);
+  }
+  .avatar {
+    &-image {
+      width: 130px;
+      height: 130px;
+      background-position: center;
+      border-radius: 65px;
+      object-fit: cover;
+    }
+  }
+
+  .username {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(70, 156, 255);
+  }
+
+  .description {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 15px;
+  }
+
+  .button-group {
+    margin-top: auto;
+    display: flex;
+  }
+
+  &.big {
+    height: 80vh;
+    width: 100%;
+  }
+}

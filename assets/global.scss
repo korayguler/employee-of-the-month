@@ -1,0 +1,57 @@
+@import 'https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css';
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  transition: 100ms background-color color;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #e1e5f2;
+
+  #__next {
+    height: 100vh;
+    width: 100vw;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #3d3d3f;
+}
+
+p {
+  color: #444547;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(11, 135, 218);
+  &:hover {
+    text-decoration: underline;
+  }
+}
+// easy flex
+.row {
+  display: flex;
+  width: 100%;
+
+  .col-1 {
+    flex: 1;
+  }
+
+  .col-3 {
+    flex: 3;
+  }
+  .col-12 {
+    flex: 12;
+  }
+}
