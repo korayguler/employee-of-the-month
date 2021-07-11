@@ -1,7 +1,7 @@
 const fetchEmployees = () => async (dispatch) => {
   let employeesArr = [];
+
   try {
-    console.log(process.env.NODE_ENV);
     if (process.env.NODE_ENV === 'development') {
       const query = `
           query{
@@ -26,7 +26,9 @@ const fetchEmployees = () => async (dispatch) => {
       const { data } = await response.json();
       employeesArr = data;
     } else {
-      const response = await fetch(`${process.env.BASE_URL}/data.json`);
+      const response = await fetch(
+        'https://gist.githubusercontent.com/korayguler/73ea0279cea48e705f13ad283f9c049e/raw/ed78e7c7968b89156338c14a819b23759e7d21e6/employees.json',
+      );
       employeesArr = await response.json();
     }
 
