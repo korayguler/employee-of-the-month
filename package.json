@@ -33,6 +33,7 @@
     "sass": "^1.35.2"
   },
   "devDependencies": {
-    "graphql-faker": "^2.0.0-rc.25"
+    "graphql-faker": "^2.0.0-rc.25",
+    "postcss": "^8.3.5"
   }
 }
