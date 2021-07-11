@@ -26,7 +26,7 @@ const fetchEmployees = () => async (dispatch) => {
       const { data } = await response.json();
       employeesArr = data;
     } else {
-      const response = await fetch(`http://localhost:3000/data.json`);
+      const response = await fetch(`${process.env.BASE_URL}/data.json`);
       employeesArr = await response.json();
     }
 
