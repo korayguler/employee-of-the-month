@@ -1,6 +1,6 @@
 # employee-of-the-month
 
-Employee of the month App with Next.js &amp; GraphQL
+Employee of the month App with Next.js &amp; GraphQL [Production](https://employee-of-the-month.vercel.app/)
 
 ## Clone this repo
 
