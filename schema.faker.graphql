@@ -13,20 +13,17 @@
 
 type Employee {
   id: ID
-  user_id:String @fake (type:userAgent)
-  fullName:String @fake(type:fullName, locale:tr)
-  address: String @fake(type: streetAddress, locale:tr, )
-  jobTitle:String @fake(type: jobTitle, locale:tr)
-  avatar: String @fake(type:avatarUrl, locale:tr)
-  phone:String @fake(type:phoneNumber, locale:tr)
-  email:String @fake(type:email, locale:tr)
-  like:Int
+  user_id: String @fake(type: userAgent)
+  fullName: String @fake(type: fullName, locale: tr)
+  address: String @fake(type: streetAddress, locale: tr)
+  jobTitle: String @fake(type: jobTitle, locale: tr)
+  avatar: String @fake(type: avatarUrl, locale: tr)
+  phone: String @fake(type: phoneNumber, locale: tr)
+  email: String @fake(type: email, locale: tr)
+  like: Int
 }
 
-
-
 type Query {
-	employee(id:ID) : Employee
-  employees:[Employee] @listLength(min:50, max:50)
-  
+  employee(id: ID): Employee
+  employees: [Employee] @listLength(min: 20, max: 20)
 }
